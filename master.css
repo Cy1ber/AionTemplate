@@ -1,0 +1,357 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+#Blue-Div{
+    padding: 0;
+    margin: 0;
+    background: #3498DB;
+    width: auto;
+    height:750px;
+}
+#Hello-title{
+    color: white;
+}
+#Green-Div{
+    background: #27AE60;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height:750px;
+}
+#White-Div{
+    background: white;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height:650px;
+}
+#Smaller-White-Div{
+    background: white;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height:400px;
+}
+#Purple-Div{
+    background:#9B59B6;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height:650px;
+}
+#Header{
+    background: #2C3E50;
+    padding: 0;
+    margin: 0;
+    width: auto;
+    height:150px;
+}
+#Logo{
+    margin-left: 300px;
+    margin-top: 65px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    margin-top: -40px;
+    padding: 0;
+    font-size: 25px;
+  }
+  
+  li {
+      float: right;
+  }
+  
+  li a {
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+#Recent-Projects{
+    font-size: 25px;
+    margin-top: 50px;
+    color:white;
+}
+#Recent-Projects-Paragraph{
+    font-size: 15px;
+    color:white;
+}
+#Green-Photo1{
+    margin-left: 175px;
+}
+#Green-Photo2{
+    margin-left: -50px;
+}
+#Green-Photo3{
+    margin-left: -50px;
+}
+#White-Div-Items{
+    color: #2C3E50;
+}
+#Member-One{
+    font-size: 15px;
+    margin-left: 350px;
+    margin-top: 50px;
+    float: left;
+}
+#Member-Two{
+    font-size: 15px;
+    margin-right: 350px;
+    margin-top: 50px;
+    float: right;
+}
+#Member-Three{
+    font-size: 15px;
+    margin-right: 250px;
+    margin-top: 50px;
+    float: right;
+}
+#Member-Social-Media{
+    margin-left: 0px;
+}
+#Smaller-White-Div-Content{
+    font-size: 15px;
+    color: #2C3E50;
+}
+#Smaller-White-Div-Content p{
+    font-size: 15px;
+}
+#One_Div{
+    padding:55px;
+    position: relative;
+    background-color: white;
+    margin-top: 100px;
+    width: 425px;
+    height: 350px;
+    margin-left: 350px;
+    border-radius: 25px;
+}
+
+#Two_Div{
+    padding:55px;
+    position: relative;
+    background-color: white;
+    margin-top: -460px;
+    width: 425px;
+    height: 350px;
+    margin-left: 1000px;
+    border-radius: 25px;
+}
+#One_Div p{
+    font-size: 20px;
+}
+#Two_Div p{
+    font-size: 20px;
+}
+.button {
+    background-color: #3498DB; /* Green */
+    border: none;
+    color: white;
+    padding: 20px;
+    width:240px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+
+  }
+.button2 {border-radius:30px;}
+.button:hover{
+        background-color:rgb(25, 108, 249);
+}
+.button2:hover{
+    background-color:rgb(25, 108, 249);
+}
+#Our_Clients_Paragraph{
+    margin-left: -500px;
+    letter-spacing: 0px;
+    margin-top: 150px;
+    color: white;
+}
+#Our_Clients{
+    margin-top: -100px;
+    margin-left: 500px;
+    letter-spacing: 50px;
+}
+#Clients{
+    margin-top: 150px;
+}
+#Hello-title-Div{
+    color: black;
+    position: relative;
+    background-color: white;
+    margin-top: 200px;
+    width: 1000px;
+    height: 575px;
+    margin-left: 450px;
+    border-radius: 25px;
+    box-shadow: 0.2px 5px grey;
+}
+#Hello-title-Div p{
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+#Hello-title-Div h1{
+    margin-left: 0px;
+    margin-bottom: 50px;
+}
+#Title-User-1{
+    height: auto;
+    width: auto;
+    margin-left: -200px;
+    margin-top: 350px;
+    font-size: 25px;
+    float: left;
+}
+#Title-User-2{
+    height: auto;
+    width: auto;
+    margin-left: 175px;
+    margin-top: 350px;
+    font-size: 25px;
+    float: left;
+}
+#Title-User-3{
+    height: auto;
+    width: auto;
+    margin-right: -200px;
+    margin-top: 350px;
+    font-size: 25px;
+    float: right;
+}
+#Hello-title-Items{
+    color: #485867;
+    padding:75px;
+}
+#Client1{
+    border-radius: 50%;
+}
+#Client2{
+    border-radius: 50%;
+}
+#Client3{
+    border-radius: 50%;
+}
+#Worker{
+    border-radius: 50%;
+    margin-left: 72.5px;
+}
+/*Telefon
+*/
+@media (max-width:767px){
+    #Blue-Div{
+        width: 1100px;
+    }
+    #Green-Div{width: 100%;}
+    #Menu{margin-left: -200px;
+
+     }
+    #Logo{
+        margin-right: 3000px;
+    }
+    #Hello-title-Div{
+        padding: -15px;
+        margin-left: 150px;
+        margin-bottom: -300px;
+        width: 700px;
+        height: 575px;
+    }
+    #test{
+        margin-top: -100px;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        height: 500px;
+        position: relative;
+
+    }
+    #Title-User-1{
+        float: left;
+        margin-left: -250px;
+        font-size: 20px;
+        margin-top: -75px;
+    }
+    #Title-User-2{
+        float: right;
+        margin-right: -150px;
+        font-size: 20px;
+        margin-top: -75px;
+    }
+    #Title-User-3{
+        float: left;
+        margin-left: 145px;
+        font-size: 20px;
+        margin-top: -75px;
+    }
+    #Hello-title{
+        margin-left: 100px;
+    }
+    #Green-Photo1{
+        width: 35%;
+        height: 50%;
+        margin-left: -30px;
+        margin-top: 150px;
+    }
+    #Green-Photo2{
+        width: 40%;
+        height: 50%;
+        margin-top: 150px;
+    }
+    #Green-Photo3{
+        width: 35%;
+        height: 50%;
+        margin-top: 150px;
+    }
+    #One_Div{
+        width: 40%;
+        height: 50%;
+        padding: 5px;
+        margin-left: 50px;
+    }
+    #Two_Div{
+        width: 40%;
+        height: 50%;
+        padding: 5px;
+        margin-top: -355px;
+        margin-left: 575px;
+    }
+    #Our_Clients_Paragraph{
+        font-size: 35px;
+    }
+    #Clients{
+        margin-left: -375px;
+    }
+    #Member-Three{
+        float: left;
+        margin-top: -250px;
+    }
+    #Member-Two{
+        float: left;
+        margin-left: 425px;
+        margin-top: -250px;
+    }
+    #Member-One{
+        float: right;
+        margin-left: -25px;
+        margin-top: 225px;
+    }
+}
+
+/*Tablet
+*/
+@media (min-width:768px) and (max-width:992px){
+    
+}
